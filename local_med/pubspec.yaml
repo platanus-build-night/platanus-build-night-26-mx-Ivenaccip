@@ -16,6 +16,8 @@ dependencies:
 
   flutter_rust_bridge: 2.11.1
 
+  onnxruntime: ^1.4.1
+
   # Persistencia local
   sqlite3: ^3.3.2
   path_provider: ^2.1.5
