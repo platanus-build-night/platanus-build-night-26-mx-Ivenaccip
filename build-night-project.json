@@ -1,0 +1,5 @@
+{
+  "name": "local-med",
+  "oneliner": "Primeros auxilios con IA local — funciona sin internet",
+  "description": "App móvil offline-first para consultas de emergencias médicas en zonas con conectividad limitada. Un LLM cuantizado (Gemma 4 E2B, GGUF Q4_K_M) corre completamente en el dispositivo junto a un pipeline RAG local con embeddings vectoriales. Los protocolos críticos (RCP, Heimlich, hemorragia) están hardcodeados para eliminar el riesgo de alucinaciones en situaciones de vida o muerte."
+}
